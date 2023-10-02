@@ -1,0 +1,4 @@
+
+}csharpsquid:S101"aRename class 'PTCRequestArgs' to match pascal case naming rules, consider using 'PtcRequestArgs'.(çÀ•š
+zcsharpsquid:S101"YRename class 'ExecutePTC' to match pascal case naming rules, consider using 'ExecutePtc'.(Ñí˜ôþÿÿÿÿ
+Gcsharpsquid:S3376"*Make this class name end with 'EventArgs'.(çÀ•š

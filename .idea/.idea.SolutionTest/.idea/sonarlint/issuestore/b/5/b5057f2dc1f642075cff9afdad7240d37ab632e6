@@ -1,0 +1,4 @@
+
+ocsharpsquid:S101"SRename class 'PTCFlow' to match pascal case naming rules, consider using 'PtcFlow'.(Š¨“É
+Lcsharpsquid:S3376"*Make this class name end with 'EventArgs'.(ÿ‘àïýÿÿÿÿ
+;csharpsquid:S125""Remove this commented out code.(Ú°à¬

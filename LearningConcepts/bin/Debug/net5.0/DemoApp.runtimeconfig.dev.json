@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/umesh.patole/.dotnet/store/|arch|/|tfm|",
+      "/Users/umesh.patole/.nuget/packages"
+    ]
+  }
+}

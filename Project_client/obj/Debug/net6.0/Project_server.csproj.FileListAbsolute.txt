@@ -1,0 +1,17 @@
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/Project_server
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/Project_server.deps.json
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/Project_server.runtimeconfig.json
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/Project_server.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/Project_server.pdb
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.csproj.AssemblyReference.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.AssemblyInfoInputs.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.AssemblyInfo.cs
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.csproj.CoreCompileInputs.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/refint/Project_server.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.pdb
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.genruntimeconfig.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/ref/Project_server.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/bin/Debug/net6.0/websocket-sharp.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/Project_server/obj/Debug/net6.0/Project_server.csproj.CopyComplete

@@ -1,0 +1,16 @@
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.csproj.AssemblyReference.cache
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.AssemblyInfoInputs.cache
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.AssemblyInfo.cs
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp.deps.json
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp.runtimeconfig.json
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp.runtimeconfig.dev.json
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp.dll
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/bin/Debug/net5.0/DemoApp.pdb
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.dll
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/refint/DemoApp.dll
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.pdb
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/DemoApp.genruntimeconfig.cache
+/Users/umesh.patole/RiderProjects/SolutionTest/DemoApp/obj/Debug/net5.0/ref/DemoApp.dll

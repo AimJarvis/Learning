@@ -1,0 +1,16 @@
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts.deps.json
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts.runtimeconfig.json
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts.runtimeconfig.dev.json
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/bin/Debug/net5.0/LearningConcepts.pdb
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.csproj.AssemblyReference.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.AssemblyInfoInputs.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.AssemblyInfo.cs
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.csproj.CoreCompileInputs.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/refint/LearningConcepts.dll
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.pdb
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/LearningConcepts.genruntimeconfig.cache
+/Users/umesh.patole/Projects/Learning/SolutionTest/LearningConcepts/obj/Debug/net5.0/ref/LearningConcepts.dll
